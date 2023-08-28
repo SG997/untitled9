@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'F11lutter Demo Home Page Hello world'),
+      home: const MyHomePage(title: 'F11asdasdasdlutter Demo Home Page Hello world'),
     );
   }
 }
